@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Thoon-Phyo/Thoon-Phyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏮
+I'm Theodore 👋. I'm computer science student from the University of the People.
 
-Here are some ideas to get you started:
+I have a huge interest in robotics and sustainability, and am planning to major in Green Engineering.
 
-- 🔭 I’m currently working on ...
+I'm completely new to this, so I'll try my best to learn !
+
+- 😄 Pronouns: she/her
+  
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔸 Java
+- 🔸 Data Science certificate
+
+- ⚡ Fun fact: I'm a cat lover 🐈 , and I have a orange tabby cat! She's a lovable idiot 🥰 .
