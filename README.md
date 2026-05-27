@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🏮
-I'm Theodore 👋. I'm computer science student from SIIT, Thammasat University.
+I'm Theodore. I'm computer engineering student from SIIT, Thammasat University.
 
 I have a huge interest in robotics and cyber security, and am planning to major in Cyber Security, Computer Engineering.
 
